@@ -20,9 +20,9 @@ Also come find me on:
 - <a href="https://github.com/nknott">GitHub</a>
 - <a href="https://www.upwork.com/o/profiles/users/~0199d736dbc4842c0e/">Upwork</a>
 
-#Education
-##2013-2021
+<h1>Education</h1>
+<h2>2013-2021</h2>
 <a href="https://www.ema-bonn.de/">Ernst-Moritz-Arndt-Gymnasium</a>
-##2009-2013
+<h2>2009-2013</h2>
 <a href="https://www.engelsbachschule.de/">Engelsbach-Grundschule Ippendorf</a>
 
