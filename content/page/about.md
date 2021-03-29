@@ -21,8 +21,7 @@ Also come find me on:
 - [Upwork](https://www.upwork.com/o/profiles/users/~0199d736dbc4842c0e/)
 
 ## Education
-**2013-2021**   [Ernst-Moritz-Arndt-Gymnaisum Bonn](https://www.ema-bonn.de/)
+**2013-2021** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ernst-Moritz-Arndt-Gymnaisum Bonn](https://www.ema-bonn.de/)
 
-**2009-2013**   [Engelsbach-Grundschule Ippendorf](https://www.engelsbachschule.de/)
-**kmsv** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ABISCf
+**2009-2013** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Engelsbach-Grundschule Ippendorf](https://www.engelsbachschule.de/)
 
