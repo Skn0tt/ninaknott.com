@@ -22,5 +22,6 @@ Also come find me on:
 
 ## Education
 **2013-2021**   [Ernst-Moritz-Arndt-Gymnaisum Bonn](https://www.ema-bonn.de/)
+
 **2009-2013**   [Engelsbach-Grundschule Ippendorf](https://www.engelsbachschule.de/)
 
