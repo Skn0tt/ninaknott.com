@@ -38,7 +38,7 @@ params:
     subtitle: "currently studying @ EMA Bonn"
     avatar:
       local: true
-      src: img/eel.jpeg
+      src: img/pp.JPEG
 
   article:
     math: false
