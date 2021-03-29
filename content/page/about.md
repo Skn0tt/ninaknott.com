@@ -14,9 +14,15 @@ menu:
     pre: user
 ---
 
-Hey, I'm Nina Knott. I'm an aspiring architect and currently finishing my education at Ernst-Moritz-Arndt-Gymnasium in Bonn.
+Hey, I'm Nina Knott from Germany. I'm an aspiring architect and hopefully soon-to-be Belgian resident. To achieve that, I am currently finishing my education at Ernst-Moritz-Arndt-Gymnasium in Bonn.
 
-Also find me on:
+Also come find me on:
+- <a href="https://github.com/nknott">GitHub</a>
+- <a href="https://www.upwork.com/o/profiles/users/~0199d736dbc4842c0e/">Upwork</a>
 
-- https://www.upwork.com/o/profiles/users/~0199d736dbc4842c0e/
-- https://github.com/nknott
+#Education
+##2013-2021
+<a href="https://www.ema-bonn.de/">Ernst-Moritz-Arndt-Gymnasium</a>
+##2009-2013
+<a href="https://www.engelsbachschule.de/">Engelsbach-Grundschule Ippendorf</a>
+
