@@ -1,6 +1,6 @@
 ---
 title: About
-description: Nina Knott
+description: Find out more about me here
 date: "2021-03-29"
 aliases:
   - about-me
@@ -17,12 +17,12 @@ menu:
 Hey, I'm Nina Knott from Germany. I'm an aspiring architect and hopefully soon-to-be Belgian resident. To achieve that, I am currently finishing my education at Ernst-Moritz-Arndt-Gymnasium in Bonn.
 
 Also come find me on:
-- <a href="https://github.com/nknott">GitHub</a>
-- <a href="https://www.upwork.com/o/profiles/users/~0199d736dbc4842c0e/">Upwork</a>
+- [GitHub](https://github.com/nknott)
+- [Upwork](https://www.upwork.com/o/profiles/users/~0199d736dbc4842c0e/)
 
-<h1>Education</h1>
-<h2>2013-2021</h2>
-<a href="https://www.ema-bonn.de/">Ernst-Moritz-Arndt-Gymnasium</a>
-<h2>2009-2013</h2>
-<a href="https://www.engelsbachschule.de/">Engelsbach-Grundschule Ippendorf</a>
+# Education
+## 2013-2021
+[Ernst-Moritz-Arndt-Gymnaisum Bonn](https://www.ema-bonn.de/)
+## 2009-2013
+[Engelsbach-Grundschule Ippendorf](https://www.engelsbachschule.de/)
 
