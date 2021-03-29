@@ -17,8 +17,8 @@ menu:
 Hey, I'm Nina Knott from Germany. I'm an aspiring architect and hopefully soon-to-be Belgian resident. To achieve that, I am currently finishing my education at Ernst-Moritz-Arndt-Gymnasium in Bonn.
 
 Also come find me on:
-<a href="https://github.com/nknott">GitHub</a>
-<a href="https://www.upwork.com/o/profiles/users/~0199d736dbc4842c0e/">Upwork</a>
+- <a href="https://github.com/nknott">GitHub</a>
+- <a href="https://www.upwork.com/o/profiles/users/~0199d736dbc4842c0e/">Upwork</a>
 
 <h1>Education</h1>
 <h2>2013-2021</h2>
