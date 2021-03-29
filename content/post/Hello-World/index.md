@@ -4,6 +4,9 @@ author = "Nina Knott"
 date = "2021-03-29"
 description = "First post"
 image = "augustine-wong-t_We9kRgSPM-unsplash.jpg"
+categories = [
+    "Test"
+]
 ---
 
 Hello World!
